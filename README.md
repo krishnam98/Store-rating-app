@@ -4,5 +4,5 @@ Monorepo containing **frontend (React)** and **backend (Node/Express/MySQL)**.
 
 ## Structure
 
-- `frontend/` – React app
-- `backend/` – Node.js/Express API
+- `store-rating-app(frontend)/` – React app
+- `store-rating-app(Backend)/` – Node.js/Express API
